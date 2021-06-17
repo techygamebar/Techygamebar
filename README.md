@@ -4,7 +4,7 @@
 
 ### Hi there I'm TGB, Techygamebar👋
 
-<h2 align="center">### Maybe You Know me , But not my story</h2>
+<h2 align="center">Maybe You Know me , But not my story</h2>
 
 <p align="left">
   <samp>
