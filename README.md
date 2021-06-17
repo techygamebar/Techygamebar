@@ -1,8 +1,11 @@
+
+<h2 align="center">More About Me</h2>
+WELCOME TO MY PROFILE PAGE
+
 ### Hi there I'm TGB, Techygamebar👋
 
 ### Maybe You Know me , But not my story
 
-<h2 align="center">More About Me</h2>
 ### WORKING IN
 - Open source scripts (Lua,Js,py)
 - Fivem interiors and Props
