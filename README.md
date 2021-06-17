@@ -2,6 +2,7 @@
 
 ### Maybe You Know me , But not my story
 
+<h2 align="center">More About Me</h2>
 ### WORKING IN
 - Open source scripts (Lua,Js,py)
 - Fivem interiors and Props
@@ -20,6 +21,7 @@
 - VRP SCRIPT CONVERSION
 - MAKING BOTS
 - RUN A COMMUNITY WITH NO ISSUES
+
 
 
 ### Get connected :
