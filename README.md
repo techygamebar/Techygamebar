@@ -5,11 +5,21 @@
 ### Hi there I'm TGB, Techygamebar👋
 
 ### Maybe You Know me , But not my story
+<p align="left">
+  <samp>
+    <br><br>
+ Open source scripts (Lua,Js,py)
+    <br><br>
+    FiveM Scripting and Asset Developer
+    <br><br>
+   Fivem interiors and Props
+    <br><br> 
+HTML NUI is difficult some time
+  </samp>
+</p>
 
-### WORKING IN
-- Open source scripts (Lua,Js,py)
-- Fivem interiors and Props
-- HTML NUI is difficult some time
+<hr/>
+
 
 ### PAST WORKS
 - RP SERVERS 4x
