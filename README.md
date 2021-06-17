@@ -6,7 +6,7 @@
 
 <h2 align="center">Maybe You Know me , But not my story</h2>
 
-<p align="right">
+<p align="CENTER">
   <samp>
     <br><br>
  Open source scripts (LUA,JS,PY)
