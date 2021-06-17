@@ -5,6 +5,7 @@
 ### Hi there I'm TGB, Techygamebar👋
 
 <h2 align="center">Maybe You Know me , But not my story</h2>
+<img width="55%" align="right" alt="iMAGE" src="https://raw.githubusercontent.com/techygamebar/techygamebar/icons/developer.svg"/>
 
 <p align="CENTER">
   <samp>
