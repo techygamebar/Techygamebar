@@ -6,10 +6,10 @@
 
 <h2 align="center">Maybe You Know me , But not my story</h2>
 
-<p align="left">
+<p align="right">
   <samp>
     <br><br>
- Open source scripts (Lua,Js,py)
+ Open source scripts (LUA,JS,PY)
     <br><br>
     FiveM Scripting and Asset Developer
     <br><br>
@@ -18,7 +18,6 @@
 HTML NUI is difficult some time
   </samp>
 </p>
-
 <hr/>
 
 
@@ -72,4 +71,5 @@ HTML NUI is difficult some time
 [website]: https://techygamebar.com
 [youtube]: https://youtube.com/c/techygamebar
 [vscode]: https://code.visualstudio.com/Download
+[discord]: https://discord.gg/js3BrzReXw
 
