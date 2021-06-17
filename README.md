@@ -5,7 +5,8 @@
 ### Hi there I'm TGB, Techygamebar👋
 
 <h2 align="center">Maybe You Know me , But not my story</h2>
-<img width="55%" align="right" alt="iMAGE" src="https://raw.githubusercontent.com/techygamebar/techygamebar/icons/developer.svg"/>
+<img width="55%" align="right" alt="iMAGE" src="https://raw.githubusercontent.com/techygamebar/techygamebar/icons/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966.gif"/>
+<img width="55%" align="right" alt="iMAGE" src="https://loading.io/icon/y8lp54"/>
 
 <p align="CENTER">
   <samp>
