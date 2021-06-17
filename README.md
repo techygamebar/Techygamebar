@@ -1,6 +1,6 @@
 
-<h2 align="center">More About Me</h2>
-WELCOME TO MY PROFILE PAGE
+<h2 align="center">WELCOME TO MY PROFILE PAGE</h2>
+
 
 ### Hi there I'm TGB, Techygamebar👋
 
