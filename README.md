@@ -2,7 +2,7 @@
 <h2 align="center">WELCOME TO MY PROFILE PAGE</h2>
 
 
-### Hi there I'm TGB, Techygamebar👋
+### Hi there I'm TGB, Techygamebar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2 align="center">Maybe You Know me , But not my story</h2>
 
