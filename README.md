@@ -36,9 +36,9 @@ HTML NUI is difficult some time
 - RUN A COMMUNITY WITH NO ISSUES
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you love what i do, Please  consider buying me a coffee/tea
 
-<a href="https://www.buymeacoffee.com/techygamebar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="CENTER"> <a href="https://www.buymeacoffee.com/techygamebar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </p>
 
 ### Get connected :
 
