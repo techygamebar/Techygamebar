@@ -33,8 +33,8 @@ HTML NUI is difficult some time
 
 <p align="CENTER"> <a href="https://www.buymeacoffee.com/techygamebar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </p>
 
-<p align="CENTER"> <a href="https://camo.githubusercontent.com/48f611ccbb1c57a51d92cfc84deeac4512fc967c939fa60ffcd3140df206ef83/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4a617265642f636f756e742e737667" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </p>
-
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/techygamebar/count.svg" />
 
 ### Get connected :
 
