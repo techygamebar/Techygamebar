@@ -34,7 +34,7 @@ HTML NUI is difficult some time
 <p align="CENTER"> <a href="https://www.buymeacoffee.com/techygamebar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </p>
 
 ## Visitor Count
-  <img src="https://profile-counter.glitch.me/techygamebar/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/techygamebar/count.svg" />
 
 ### Get connected :
 
