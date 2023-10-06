@@ -63,7 +63,7 @@ HTML NUI is difficult some time
 
  ## <img src="https://github.com/techygamebar/Techygamebar/blob/1688a1fb7ba5c2e508c04f05bc4288ebbf917846/img/statistics_icon.gif" width="40px"> My Stats
 <p align="center">
-  <img align="center" alt="TGB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img align="center" alt="TGB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=techygamebar&show_icons=true&theme=radical" />
     <img align="center" alt="TGB's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=techygamebar&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 
 
