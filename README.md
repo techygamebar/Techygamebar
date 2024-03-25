@@ -8,14 +8,18 @@
 
 <p align="CENTER">
   <samp>
+    <br> 
+    <br>
+  Full Stack Developer
     <br><br>
- Open source scripts (LUA,JS,PY)
+   Full Hands On HTML JS REACT TYPESCRIPT C++ PYTHON JAVA LUA
     <br><br>
-    FiveM Scripting and Asset Developer
-    <br><br>
-   Fivem interiors and Props
+ FiveM Scripting and Asset Developer
+ <br><br> 
+    Currently Developing Fivem Server with an experience of 5+ Years
     <br><br> 
-HTML NUI is difficult some time
+    3D Environmentalist Artist
+Fivem Interiors/MLOs are charm for me
   </samp>
 </p>
 <hr/>
