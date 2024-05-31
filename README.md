@@ -12,11 +12,11 @@
     <br>
   Full Stack Developer
     <br><br>
-   Full Hands On HTML JS REACT TYPESCRIPT C++ PYTHON JAVA LUA
+   Full Hands On HTML JS REACT TYPESCRIPT C++ PYTHON JAVA LUA 
     <br><br>
- FiveM Scripting and Asset Developer
+ FiveM Scripting and Asset Developer (Experience 5+ Years)
  <br><br> 
-    Currently Developing Fivem Server with an experience of 5+ Years
+    Currently Developing Glitch Aim Server
     <br><br> 
     3D Environmentalist Artist
 Fivem Interiors/MLOs are charm for me
@@ -27,10 +27,8 @@ Fivem Interiors/MLOs are charm for me
 
 
 ### FUTURE PROJECTS
-- ESX & QB BASED SCRIPTS
-- VRP SCRIPT CONVERSION
-- MAKING BOTS
-- RUN A COMMUNITY WITH NO ISSUES
+- NUI BASED SCRIPTS
+- DISCORD BOTS
 
 
 <p align="CENTER">  if you love what i do, Please  consider buying me a coffee/tea</p>
@@ -64,11 +62,6 @@ Fivem Interiors/MLOs are charm for me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
- ## <img src="https://github.com/techygamebar/Techygamebar/blob/1688a1fb7ba5c2e508c04f05bc4288ebbf917846/img/statistics_icon.gif" width="40px"> My Stats
-<p align="center">
-  <img align="center" alt="TGB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=techygamebar&show_icons=true&theme=radical" />
-    <img align="center" alt="TGB's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=techygamebar&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 
 
 </details>
