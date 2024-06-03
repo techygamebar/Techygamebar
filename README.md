@@ -65,9 +65,9 @@ Fivem Interiors/MLOs are charm for me
 
 
 </details>
-![techygamebar's Stats](https://github-readme-stats.vercel.app/api?username=techygamebar&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![techygamebar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techygamebar&theme=radical&hide_border=false)
-![techygamebar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techygamebar&theme=radical&show_icons=true&hide_border=false&layout=compact)
+[techygamebar's Stats](https://github-readme-stats.vercel.app/api?username=techygamebar&theme=radical&show_icons=true&hide_border=false&count_private=true)
+[techygamebar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techygamebar&theme=radical&hide_border=false)
+[techygamebar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techygamebar&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <p align="center">
   Made with ❤️ in India
