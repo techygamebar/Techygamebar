@@ -65,9 +65,17 @@ Fivem Interiors/MLOs are charm for me
 
 
 </details>
-[techygamebar's Stats](https://github-readme-stats.vercel.app/api?username=techygamebar&theme=radical&show_icons=true&hide_border=false&count_private=true)
-[techygamebar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=techygamebar&theme=radical&hide_border=false)
-[techygamebar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techygamebar&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+#### Top Repositories
+
+<a href="https://github.com/techygamebar/tgb_playtime ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techygamebar&repo=tgb_playtime&theme=buefy" />
+</a>
+<a href="https://github.com/techygamebar/Techygamebar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techygamebar&repo=Techygamebar&theme=buefy" />
+</a>
+
+
 
 <p align="center">
   Made with ❤️ in India
